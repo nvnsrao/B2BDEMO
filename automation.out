@@ -1,0 +1,3 @@
+2021-09-26 16:01:01 INFO  TestBase:117 - navigating to :-https://admin.go-test.bambu.life/login
+2021-09-26 16:01:14 INFO  TC001_VerifyLoginWithValidCredentails:28 - =========== Starting verifyLoginWithInvalidCredentails Test=============
+2021-09-26 16:01:15 INFO  TC001_VerifyLoginWithValidCredentails:32 - =========== Finished verifyLoginWithInvalidCredentails Test=============
